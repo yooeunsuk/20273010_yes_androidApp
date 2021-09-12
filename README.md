@@ -5,4 +5,4 @@
   - 안드로이드앱 프로그래밍
   - 앱기획
 
-<img width="100" height="100" src"./png/RAA.jpeg"></img>
+<img width="300" height="300" src"./png/RAA.jpeg"></img>
