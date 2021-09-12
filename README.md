@@ -1,3 +1,3 @@
-# 2주차 과제
+#메인
 
-<img width="" height="" src="./png/2stApp.png"><img>
+######메인
